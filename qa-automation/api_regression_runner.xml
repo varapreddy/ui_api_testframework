@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM API Automation Regression Test Run" verbose="3">
+    <test name="API Regression Test Case Run">
+        <!--<packages>-->
+        <!--<package name="com.maximus.crm.runners.APIRegressionRunner"/>-->
+        <!--</packages>-->
+        <classes>
+            <class name="com.maximus.crm.runners.APIRegressionRunner"/>
+        </classes>
+    </test>
+</suite>

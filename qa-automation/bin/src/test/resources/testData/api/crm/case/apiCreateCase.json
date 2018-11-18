@@ -1,0 +1,36 @@
+{
+  "caseConsumers": [
+    {
+      "caserequest": {
+        "dateOfDeath": "",
+        "caseFirstName": "",
+        "caseLastName": "",
+        "caseMiddleName": "",
+        "caseSSN": "",
+        "caseId": 0,
+        "contacts": {
+          "address": {
+            "addressZip": "",
+            "contactTypeId": 0,
+            "addressVerfied": true,
+            "addressStreet2": "",
+            "addressStreet1": "",
+            "addressZipFour": "",
+            "addressType": "",
+            "addressCity": "",
+            "addressState": "",
+            "addressCounty": ""
+          },
+          "consumerRequest": {},
+          "email": {
+            "emailAddress": "",
+            "doesNotWorkInd": true
+          },
+          "phone": {
+            "phoneNumber": "",
+            "doesNotWorkInd": true
+          }
+        }
+      }
+    }]
+}

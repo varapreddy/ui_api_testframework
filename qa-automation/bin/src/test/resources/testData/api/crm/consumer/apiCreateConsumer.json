@@ -1,0 +1,70 @@
+{
+  "ethinicityCode": "Dummy",
+  "dateOfDeathNotifiedDate": "",
+  "optIn": false,
+  "dateOfDeathNotifiedBy": "",
+  "dateOfDeath": "",
+  "dateOfSsnValidation": "",
+  "raceCode": "Dummy",
+  "genderCode": "",
+  "consumerLastName": "",
+  "createdOn": null,
+  "createdBy": "",
+  "caseId": null,
+  "updatedOn": "",
+  "updatedBy": "",
+  "ssnValidationAgency": "",
+  "consumerSuffix": "Dummy",
+  "contacts": {
+    "address": {
+      "addressZip": "",
+      "addressVerfied": false,
+      "addressStreet2": "",
+      "addressStreet1": "",
+      "addressZipFour": "",
+      "createdBy": "",
+      "addrAttn": "",
+      "addressType": "Mailing",
+      "addressCity": "",
+      "addressState": "",
+      "addressCounty": "",
+      "addrHouseCode": ""
+    },
+    "email": {
+      "effectiveStartDate": "",
+      "emailAddress": "",
+      "emailType": "OFFICE"
+    },
+    "phone": {
+      "smsEnabledInd": false,
+      "phoneType1": "Primary",
+      "phoneNumber": "",
+      "createdBy": "",
+      "updatedOn": "",
+      "updatedBy": ""
+    }
+  },
+  "consumerStatus": "Active",
+  "consumerIdentificationNo": "",
+  "consumerFirstName": "",
+  "mergeReason": "",
+  "usResidentStatusCode": "Dummy",
+  "consumerType": "Member",
+  "notBornInd": true,
+  "consumerMiddleName": "",
+  "correlationId": "",
+  "consumerSSN": "",
+  "consumerDateOfBirth": "",
+  "uiid": "",
+  "aiNa": "",
+  "mergedConsumerId": 0,
+  "communicationPreferences": [
+    {
+      "preferenceType": "Phone"
+    },{
+      "preferenceType": "Email"
+    },{
+      "preferenceType": "Text"
+    }],
+  "ssnValidationCode": ""
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="CRM and TM Automation">
+    <test name="Smoke Suite Automated Test">
+        <classes>
+            <class name="com.maximus.crm.runners.UISmokeRunner"/>
+        </classes>
+    </test>
+</suite>

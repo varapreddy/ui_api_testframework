@@ -1,0 +1,16 @@
+{
+  "state" : "",
+  "country" : "",
+  "contractId" : "",
+  "contractStartDate" : null,
+  "contractEndDate" : null,
+  "projectName" : "",
+  "programName" : "",
+  "stateAgencyName" : "",
+  "productId" : 1,
+  "projectStatus" : {
+    "provisioningStatus" : "",
+    "effectiveStartDate" : null
+  },
+  "correlationId" : ""
+}

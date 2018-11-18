@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM and TM Automation" verbose="2">
+    <test name="Automated Test">
+        <classes>
+            <class name="com.maximus.crm.runners.UIRegressionRunner"/>
+        </classes>
+    </test>
+</suite> 

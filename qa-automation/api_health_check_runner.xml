@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM API Health Check Automation Test Run" verbose="3">
+    <test name="API HealthCheck Test Case Run">
+        <!--<packages>-->
+        <!--<package name="com.maximus.crm.runners.APIHealthCheckRunner"/>-->
+        <!--</packages>-->
+        <classes>
+            <class name="com.maximus.crm.runners.APIHealthCheckRunner"/>
+        </classes>
+    </test>
+</suite>

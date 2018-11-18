@@ -1,0 +1,17 @@
+{"phone":
+{"phoneNumber":"",
+  "phoneType1":"",
+  "phoneType2":"",
+  "comments":"",
+  "effectiveStartDate":"",
+  "effectiveEndDate":null,
+  "createdBy":0,
+  "updatedBy":null,
+  "updatedOn":null,
+  "createdOn":""
+},
+  "uiid":0,
+  "externalRefId":0,
+  "externalRefType":"Consumer",
+  "correlationId":0
+}

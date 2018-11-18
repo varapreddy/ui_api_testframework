@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CRM Automation" verbose="2">
+  <test name="CRM Automated Test">
+    <classes>
+      <class name="com.maximus.crm.runners.UICRMRunner"/>
+    </classes>
+  </test>
+</suite>
+
